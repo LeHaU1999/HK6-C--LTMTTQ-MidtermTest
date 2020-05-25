@@ -1,0 +1,11 @@
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\bin\Debug\KTGiuaKi_Event.exe.config
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\bin\Debug\KTGiuaKi_Event.exe
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\bin\Debug\KTGiuaKi_Event.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.csprojResolveAssemblyReference.cache
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.Properties.Resources.resources
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.csproj.GenerateResource.Cache
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.exe
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.pdb
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.Form3.resources
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.frmClickVsTimerTick.resources
+c:\users\hieu\documents\visual studio 2017\Projects\KTGiuaKi_Event\KTGiuaKi_Event\obj\Debug\KTGiuaKi_Event.frmMouseEnterVsMouseLeave.resources
